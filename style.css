@@ -1,0 +1,122 @@
+nav{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.home-hero-overlay{
+    font-family: 'Fjalla One', sans-serif;
+    padding-top:150px;
+    padding-left: 40px;
+    /* text-align: center; */
+    background-image: url('https://th.bing.com/th/id/R.af4e6e677d330f412489f43b3188682d?rik=zGDap0xVDxr5Fg&riu=http%3a%2f%2fsurvival-mastery.com%2fwp-content%2fuploads%2f2017%2f01%2fsnow-hiker-hiking-adventure-mountain.png&ehk=YaBAmp8mvrChFRMH3MelpGPygW3Niy8W28LryehV7I4%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-color: gray;
+}
+.search{
+    width: 500px;
+    height: 40px;
+    border-color: blue;
+}
+.s2{
+    width: 90px;
+    height: 40px;
+    border-color: blue;
+}
+.tips{
+    padding-top: 20px;
+    text-align: center;
+    width: 100%;
+    height:200px;
+    background-color: rgb(49, 72, 186);
+}
+.tip{
+    border: none;
+    width: 300px;
+    height: 30px;
+}
+.post{
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 50px;
+    background-color: rgb(255, 255, 255);
+    width: 1520px;
+    height: 900px;
+}
+.subpost{
+    background-color: rgb(255, 255, 255);
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 410px;
+    height: 270px;
+    padding-top: 20px;
+    float: left;
+    transition: 0.5s;
+}
+.subpost:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.imgpost{
+    width:360px;
+    height: 209px;
+}
+#viewmore{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 202px;
+    height: 51px;
+    background-color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+#viewmore:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.about{
+    font-family: 'PT Serif', serif;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+}
+.about1{
+    margin-top: 30px;
+margin-left: 250px;
+margin-right: 250px;
+}
+#aboutmatt{
+    margin-left: 400px;
+}
+.col{
+    float: left;
+}
+.col-1{
+    margin-left: 400px;
+    float: left;
+}
+.col-2{
+    text-align: justify;
+    padding-right: 100px;
+    width: 500px;
+    margin-left:300px;
+    float: left;
+}
+#bookheading{
+    margin-left: 550px;
+}
+.borderimg{
+    margin-left: 400px;
+}
+.books{
+    height: 1200px;
+    padding-top: 70px;
+}
+#title{
+    font-size: 40px;
+}
+#travel{
+    font-size: 50px;
+}
+#where{
+    font-size: 30px;
+}
